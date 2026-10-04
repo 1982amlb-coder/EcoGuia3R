@@ -1,0 +1,6 @@
+{
+  "name": "EcoGuía3R - Plataforma de Reciclaje y Foro",
+  "description": "Plataforma educativa de reciclaje con clasificación de residuos, minijuego, base de datos embebida y foro de calificación comunitaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
